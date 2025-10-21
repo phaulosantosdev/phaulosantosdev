@@ -19,13 +19,18 @@ Bem vindos ao meu resposítório Github!
   
 <br>  
 
-<!---ESTATÍSTICAS DO GITHUB--->
+## 📊 Estatísticas do GitHub
+
 <p align="center">
-<a href="https://github.com/phaulosantosdev">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phaulosantosdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phaulosantosdev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/AugustoQueiroz13" target="_blank">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AugustoQueiroz13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AugustoQueiroz13&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AugustoQueiroz13&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph"/>
+</p>
+
 
 <br>
 <!---ÍCONES DAS LINGUAGENS E FERRAMENTAS--->   
