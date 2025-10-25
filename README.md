@@ -1,27 +1,34 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
-  <h1>Olá, eu sou Paulo Ferreira! 😃🙏🌟</h1>
-  <p>Desenvolvedor Full-Stack</p>
+  <h1>Olá, eu sou o Paulo Ferreira! 😃🙏🌟</h1>
+  <p>Desenvolvedor Full-Stack | Entusiasta de Tecnologia | Gestor de Pessoas</p>
   
-  ---
-  
-  ## 👨‍💻 Sobre Mim
+  <details>
+    <summary>🐱 Clique aqui para um boost de produtividade...</summary>
+    <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350" />
+  </details>
+</div>
+
+---
+
+## 👨‍💻 Sobre Mim
 
 Sou um profissional em desenvolvimento na área de tecnologia, em uma jornada que vai da gestão de pessoas ao desenvolvimento de software. Minha verdadeira paixão é **conectar pessoas a tecnologia**.
 
 ### 🎓 Formação
-
-* ⚙️💡 Pós-Graduado em **Direito do Trabalho**
+* ⚙️⚜️ Pós-Graduado em **Direito do Trabalho**
 * 🎓👨‍💻 Graduado em **Gestão de Pessoas**
+
 
 <!---APRESENTAÇÃO--->  
 <div display="block">
 <p align="center">‍- 🔭 Aluno de Front-End na Softex Pernambuco.</p>
+  <p align="center">‍- 👨‍💻 Aluno Full-Stack no DevClub.</p>
 <p align="center">- 🌱 Atualmente estou aprendendo HTML- CSS - JavaScript</p>
 <p align="center">- 👯 Estou procurando colaborar em projetos que me proporcionem maiores conhecimentos na área.</p>
 <p align="center">- 🤔 Estou procurando dicas de cursos de extensões. </p>
-<p align="left">- 💬 Pergunte-me sobre como tem sido essa jornada</a>
-<p align="left">- ⚡ Curiosidade: Sou gestor de RH e larguei tudo por amor a programação.</p>
+<p align="center">- 💬 Pergunte-me sobre como tem sido essa jornada</a>
+<p align="center">- ⚡ Curiosidade: Sou gestor de RH e larguei tudo por amor a programação.</p>
 </div>
   
 <br> <br>  
