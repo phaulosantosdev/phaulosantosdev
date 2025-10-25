@@ -1,11 +1,18 @@
-<!---ESTE ARQUIVO É PARA CONFIGURAR SEU PERFIL DO GITHUB, PREENCHA COM SEUS DADOS. Para que ele seja visto como seu perfil, é preciso criar um repositório público com o seu nome de usuário e salvar com o nome README.md--->
-<!---SEUNOME--->
-<div align="center" dsplay="inline-block">
-<h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
-Bem vindos ao meu resposítório Github!
-<h4>Eu sou</h4> 
-<h1 align="center">Paulo Ferreira </h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
+  <h1>Olá, eu sou Paulo Ferreira! 😃🙏🌟</h1>
+  <p>Desenvolvedor Full-Stack</p>
   
+  ---
+  
+  ## 👨‍💻 Sobre Mim
+
+Sou um profissional em desenvolvimento na área de tecnologia, em uma jornada que vai da gestão de pessoas ao desenvolvimento de software. Minha verdadeira paixão é **conectar pessoas a tecnologia**.
+
+### 🎓 Formação
+
+* ⚙️💡 Pós-Graduado em **Direito do Trabalho**
+* 🎓👨‍💻 Graduado em **Gestão de Pessoas**
 
 <!---APRESENTAÇÃO--->  
 <div display="block">
