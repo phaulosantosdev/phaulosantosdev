@@ -17,7 +17,19 @@ Bem vindos ao meu resposítório Github!
 <p align="left">- ⚡ Curiosidade: Sou gestor de RH e larguei tudo por amor a programação.</p>
 </div>
   
-<br>  
+<br> <br>  
+
+## 🛠️ Tecnologias e Ferramentas 🖥️ 🤖
+<p align="center">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+
+<br> <br>
+
 
 ## 📊 Estatísticas do GitHub
 
@@ -31,22 +43,10 @@ Bem vindos ao meu resposítório Github!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phaulosantosdev&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph"/>
 </p>
 
-<br>
-
-## 🛠️ Tecnologias e Ferramentas 🖥️ 🤖
-<p align="center">
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-
-
-<br>
+<br> <br>
   
-<!---SEUS CONTATOS---> 
-## Contatos:
+## 📫 Conecte-se Comigo
+
 <div align="center">
 <a href="https://instagram.com/phaulosantos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
