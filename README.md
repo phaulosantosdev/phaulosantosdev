@@ -1,6 +1,6 @@
 <!---ESTE ARQUIVO É PARA CONFIGURAR SEU PERFIL DO GITHUB, PREENCHA COM SEUS DADOS. Para que ele seja visto como seu perfil, é preciso criar um repositório público com o seu nome de usuário e salvar com o nome README.md--->
 <!---SEUNOME--->
-<div dsplay="inline-block">
+<div align="center" dsplay="inline-block">
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
 Bem vindos ao meu resposítório Github!
 <h4>Eu sou</h4> 
