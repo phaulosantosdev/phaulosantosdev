@@ -24,7 +24,7 @@ Sou um profissional em desenvolvimento na área de tecnologia, em uma jornada qu
 <div display="block">
 <p align="center">‍- 🔭 Aluno de Front-End na Softex Pernambuco.</p>
   <p align="center">‍- 👨‍💻 Aluno Full-Stack no DevClub.</p>
-<p align="center">- 🌱 Atualmente estou aprendendo HTML- CSS - JavaScript</p>
+<p align="center">- 🌱 Atualmente estou aprendendo HTML- CSS - JavaScript - React</p>
 <p align="center">- 👯 Estou procurando colaborar em projetos que me proporcionem maiores conhecimentos na área.</p>
 <p align="center">- 🤔 Estou procurando dicas de cursos de extensões. </p>
 <p align="center">- 💬 Pergunte-me sobre como tem sido essa jornada</a>
