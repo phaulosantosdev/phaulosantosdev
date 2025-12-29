@@ -16,7 +16,7 @@
 Sou um profissional em desenvolvimento na área de tecnologia, em uma jornada que vai da gestão de pessoas ao desenvolvimento de software. Minha verdadeira paixão é **conectar pessoas a tecnologia**.
 
 ### 🎓 Formação
-* ⚙️⚜️ Pós-Graduado em **Direito do Trabalho**
+* ⚙️⚜️ Graduando em **Desenvolvimento Web**
 * 🎓👨‍💻 Graduado em **Gestão de Pessoas**
 
 
