@@ -22,7 +22,7 @@ Sou um profissional em desenvolvimento na área de tecnologia, em uma jornada qu
 
 <!---APRESENTAÇÃO--->  
 <div display="block">
-  <p align="center">‍-⚙️Estagiário na empresa LNCC.
+  <p align="center">‍- 📖 Estagiário na empresa LNCC.
 <p align="center">‍- 🔭 Aluno de Front-End na Softex Pernambuco.</p>
   <p align="center">‍- 👨‍💻 Aluno Full-Stack no DevClub.</p>
 <p align="center">- 🌱 Atualmente estou aprendendo HTML- CSS - JavaScript - React</p>
